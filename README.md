@@ -58,8 +58,4 @@ This project performs exploratory and visual analysis on a real-world Superstore
 4. Download the dataset and place it in the same directory  
 5. Run all cells
 
----
 
-## 🔗 Author
-**[Your Name]**  
-Aspiring Data Analyst | [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)
